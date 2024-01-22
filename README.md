@@ -2,8 +2,8 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Aditya-red)](https://www.youtube.com/@ms.poonamchauhan743)
 [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aditya-sanap-50b028273)](https://www.linkedin.com/in/aditya-sanap-50b028273/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
-[![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aditya-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
+[![Website Badge](https://img.shields.io/badge/WebSite-Aditya-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
 
 I'm
 Full Stack Solution Architect
